@@ -19,16 +19,16 @@
 
 ## 📁 Мои ключевые проекты:
 
-### [Cafe Booking System](https://github.com/MinaiShutegov/Booking_cafe_seats_team2) 🎓 **Дипломный проект**
+### [Cafe Booking System](https://github.com/MihailShutegov/cafe-booking-system) 🎓 **Дипломный проект**
 Система бронирования столиков в кафе с возможностью выбора мест, учета вместимости и управления бронями.
 
-### [Foodgram](https://github.com/MinaiShutegov/foodgram)
+### [Foodgram](https://github.com/MihailShutegov/foodgram)
 Веб-приложение для публикации рецептов с возможностью подписок и создания списка покупок.
 
-### [Kittygram](https://github.com/MinaiShutegov/kittygram_final) 
+### [Kittygram](https://github.com/MihailShutegov/kittygram_final) 
 Социальная сеть для владельцев кошек с возможностью публикации фото и достижений питомцев.
 
-### [API YaMDb](https://github.com/MinaiShutegov/api_final_yaube)
+### [API YaMDb](https://github.com/MihailShutegov/api_yamdb)
 API-сервис для сбора отзывов на произведения (книги, фильмы, музыка).
 
 ### [PEP Parser](https://github.com/MihailShutegov/scrapy_parser_pep)
