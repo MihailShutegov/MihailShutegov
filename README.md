@@ -31,7 +31,7 @@
 ### [API YaMDb](https://github.com/MinaiShutegov/api_final_yaube)
 API-сервис для сбора отзывов на произведения (книги, фильмы, музыка).
 
-### [PEP Parser](https://github.com/MinaiShutegov/scrapy_parser_pep)
+### [PEP Parser](https://github.com/MihailShutegov/scrapy_parser_pep)
 Парсер документации Python PEP с статистикой по статусам предложений.
 
 ## 📫 Контакты:
